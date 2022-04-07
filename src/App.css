@@ -23,9 +23,18 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.menuButton{
+  width: 10px;
+}
+.faq{
+  margin-left: 23%;
+}
+.logo{
+image: url('./image/lk.jpg');
+}
+.head {
+  background: #141427;
+ 
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +44,208 @@
   to {
     transform: rotate(360deg);
   }
+}
+.body {
+  position: relative;
+  width: 1917px;
+  height: 1066px;
+  overflow-y: scroll;
+  /* background: #FFFFFF; */
+  
+  background:#1E1E3D;
+  
+}
+.Roadmap{
+  margin-left: 50%;
+}
+.faq{
+  margin-left: 4%;
+}
+.for{
+  margin-left: 78px;
+  
+}
+.icon1{
+  margin-left: 99px;
+}
+.icon2{
+  margin-left: 95px;
+}
+.img-nasa{
+  position: absolute;
+  width: 319px;
+  height: 92px;
+  left: 47px;
+  top: 129px;
+  font-family: 'Knockout';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+}
+.img-table1{
+  
+  position: absolute;
+  left: 710px;
+  top: 149px;
+
+}
+.img-table2{
+  position: absolute;
+    left: 721px;
+    top: 304px;
+
+}
+.img-table3{
+  position: absolute;
+  left: 14.64%;
+  right: 39.61%;
+  top: 47%;
+  bottom: 10.69%;
+}
+.img-table5{
+  position: absolute;
+  width: 326px;
+  height: 210px;
+  left: 30px;
+  top: 480px;
+}
+.img-table7 {
+  position: absolute;
+  left: 17.25%;
+  right: 17.99%;
+  top: 65%;
+  bottom: 26.37%;
+}
+.img-table6{
+  position: absolute;
+  width: 303px;
+  height: 78px;
+  left: 34px;
+  top: 720px;
+}
+.img-table8{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: -27.54%;
+  
+}
+.ractangle{
+  position: absolute;
+width: 296px;
+height: 197px;
+left: 47px;
+top: 261px;
+background: #1E1E3D;
+border: 3px solid #5D64AE;
+border-radius: 20px;
+}
+.ractangle-name{
+  position: relative;
+  left: -21%;
+  right: 83.89%;
+  top: 8.55%;
+  bottom: 72.23%;
+  font-family: 'Roc Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 144%;
+  color: #FFFFFF;
+}
+.ractangle-name-1{
+  position: relative;
+left: 28%;
+right: 77.85%;
+top: 31.8%;
+bottom: 67.07%;
+
+font-family: 'Roc Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 144%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #A9AFEF;
+
+opacity: 0.5;
+}
+.ractangle-button{
+  height: 50px;
+  position: relative;
+  left: 11.44%;
+  width: 219px;
+  right: 77.29%;
+  top: 44.02%;
+  bottom: 58.72%;
+  border: 1px solid rgba(226, 149, 0, 0.5);
+  filter: drop-shadow(0px 8px 16px rgba(17, 51, 85, 0.08));
+  border-radius: 50px;
+}
+.ractangle-text{
+  position: relative;
+  left: 0.68%;
+  right: 78.69%;
+  top: 34.99%;
+bottom: 60.23%;
+
+font-family: 'Roc Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 144%;
+/* or 22px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.ractangle-1{
+  position: absolute;
+  width: 296px;
+  height: 197px;
+  left: 47px;
+  top: 500px;
+  background: #1E1E3D;
+  border: 3px solid #5D64AE;
+  border-radius: 20px;
+}
+.img-table7{
+  position: absolute;
+left: 32.64%;
+right: 38.61%;
+top: 59.19%;
+bottom: 10.69%;
+
+}
+.img-table8{
+
+      position: absolute;
+    left: 17%;
+    right: 12.99%;
+    top: 51.14%;
+    bottom: 17.37%;
+
+}
+.img{
+  position: absolute;
+  left: 0%;
+  height: 131px;
+    right: 0%;
+    top: 91%;
+    bottom: -27.54%;
+    width: 100%;
 }
